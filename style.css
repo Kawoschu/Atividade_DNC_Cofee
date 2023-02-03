@@ -1,0 +1,135 @@
+
+.card-body .botãoDiv{
+  vertical-align: bottom;
+  
+}
+
+.card-body p{
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #252423;
+}
+
+.botãoDiv { 
+  text-align: center;
+    visibility: hidden;
+    padding-bottom: 20px;
+  }
+   
+
+.botão {
+    width: 202px;
+    height: 48px;
+    left: 64px;
+    top: 337px;
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #F6F5FB;
+  }
+  
+
+  .modal1 {
+    display: none; 
+    position: fixed; 
+    z-index: 1;
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color:  rgba(217, 217, 217, 0.7); 
+
+  
+  }
+  
+  .modal-content1 {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    width: 671px;
+    height: 580px;
+    border-radius: 20px;
+    
+  }
+  
+#myContent {
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+#titulo{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 39px;
+  line-height: 20px;
+  padding-bottom: 60px;
+  padding-top: 30px;
+}
+
+#content1 {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 23px;
+line-height: 40px;
+
+}
+
+  .close {
+    color: #aaaaaa;
+    text-align: right;
+    font-size: 30px;
+    float: right;
+    padding-right: 20px;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+
+  .botãoDiv2 { 
+    text-align: center;
+      padding-bottom: 20px;
+    }
+
+  .botão2 {
+    width: 253px;
+    height: 48px;
+    left: 209px;
+    top: 395px;
+    background: #2A3342;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+  
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #F6F5FB;
+    
+  }
+
+  .card-highlight{
+    transform: scale(1.01);
+    box-shadow: 2px 2px 5px #dcdbe0;;
+  }
+  
