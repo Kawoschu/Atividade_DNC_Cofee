@@ -1,7 +1,6 @@
 
 .card-body .botãoDiv{
   vertical-align: bottom;
-  
 }
 
 .card-body p{
@@ -28,7 +27,6 @@
     background: #2A3342;
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 10px;
-  
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -50,8 +48,6 @@
     overflow: auto; 
     background-color: rgb(0,0,0); 
     background-color:  rgba(217, 217, 217, 0.7); 
-
-  
   }
   
   .modal-content1 {
@@ -61,7 +57,6 @@
     width: 671px;
     height: 580px;
     border-radius: 20px;
-    
   }
   
 #myContent {
@@ -86,7 +81,6 @@ font-style: normal;
 font-weight: 300;
 font-size: 23px;
 line-height: 40px;
-
 }
 
   .close {
@@ -104,7 +98,6 @@ line-height: 40px;
     cursor: pointer;
   }
 
-
   .botãoDiv2 { 
     text-align: center;
       padding-bottom: 20px;
@@ -118,14 +111,12 @@ line-height: 40px;
     background: #2A3342;
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 10px;
-  
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 20px;
     color: #F6F5FB;
-    
   }
 
   .card-highlight{
